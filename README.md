@@ -25,7 +25,7 @@
   <a href="https://www.twitch.tv/juanxie17" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-  <a href="[www.linkedin.com/in/juan-rodrigues-7b25442a5](https://www.linkedin.com/in/juan-rodrigues-7b25442a5)" target="_blank">
+  <a href="www.linkedin.com/in/juan-rodrigues-7b25442a5" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
